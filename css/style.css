@@ -18,6 +18,11 @@ section.top-page {
     height: 60vh;
 }
 
+section.top-page h3{
+    font-size : 12px;
+    margin : 3px;
+}
+
 section.top-page h1 {
     text-align: center;
     line-height : 60vh;
