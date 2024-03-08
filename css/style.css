@@ -1,0 +1,44 @@
+﻿* {
+    font-family: 'Cascadia Code';
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #020205;
+}
+
+/* Top Part */
+
+section.top-page {
+    background: url("../images/nebula.png");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 60vh;
+}
+
+section.top-page h1 {
+    text-align: center;
+    line-height : 60vh;
+
+    vertical-align : middle;
+    font-size : 120px;
+}
+
+
+/* Prototype Part */
+
+section.prototypes{
+    margin : 80px;
+}
+
+section.prototypes h2{
+    margin-top : -20px;
+    text-align : center;
+}
+
+section.prototypes video{
+    margin-top : 50px;
+    border-radius : 10px;
+}
